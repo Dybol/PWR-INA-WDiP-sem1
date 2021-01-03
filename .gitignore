@@ -1,0 +1,6 @@
+*.o
+kompilacja.txt
+.vscode/
+inne/
+hashcode/
+
